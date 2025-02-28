@@ -16,7 +16,7 @@ Bold & Italic → **_bold & italic_**
 
 1. First item
 2. Second item
-3. Third item
+3. Third item 
 
 [JSD Bootcamp](https://thailand.generation.org/programs/junior-software-developer/)
 
