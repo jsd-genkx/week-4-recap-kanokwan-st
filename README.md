@@ -50,7 +50,7 @@ Answer by writing in Git message format for example: "feat(sql): a query languag
 Submit by doing 3 different commits for each topics
 
 - SQL ✅
-- HTML 
+- HTML ✅
 - CSS 
 
 Example:
