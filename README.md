@@ -51,7 +51,7 @@ Submit by doing 3 different commits for each topics
 
 - SQL ✅
 - HTML ✅
-- CSS 
+- CSS ✅
 
 Example:
 
@@ -61,6 +61,6 @@ feat(css): styling layouts using Flexbox and Grid for responsive design
 
 Your Summary in Git commit message format:
 
-- ?
-- ?
-- ?
+- "feat(sql): learn how to store and query data"
+- "feat(html): structure of website"
+- "feat(css): apply style of website"
